@@ -1,6 +1,6 @@
 ---
 title: "Analyzing the NYC Traffic Death Data"
-author: "Angela Zoss"
+author: "JessieT"
 date: "January 16, 2017"
 output: github_document
 ---
